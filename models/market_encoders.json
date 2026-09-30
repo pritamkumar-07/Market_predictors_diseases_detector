@@ -1,0 +1,16 @@
+{
+  "crop_map": {
+    "Potato": 0,
+    "Rice": 1,
+    "Tomato": 2,
+    "Wheat": 3
+  },
+  "market_map": {
+    "Bhubaneswar": 0
+  },
+  "season_map": {
+    "Kharif": 0,
+    "Rabi": 1,
+    "Summer": 2
+  }
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+models/*.keras
+models/*.joblib
+outputs/*
+!outputs/.gitkeep
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.streamlit/secrets.toml
